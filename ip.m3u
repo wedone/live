@@ -1,0 +1,241 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV1.png",CCTV-1
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV2.png",CCTV-2
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV3.png",CCTV-3
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV4.png",CCTV-4
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV5.png",CCTV-5
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV6.png",CCTV-6
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV7.png",CCTV-7
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV8.png",CCTV-8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227174/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV9.png",CCTV-9
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV10.png",CCTV-10
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV11.png",CCTV-11
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV12.png",CCTV-12
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV13.png",CCTV-13
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV14.png",CCTV-14
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV15.png",CCTV-15
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV16.png",CCTV-16
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227125/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV17.png",CCTV-17
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV5+.png",CCTV-5+
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/凤凰卫视中文台.png",凤凰中文
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/凤凰卫视资讯台.png",凤凰资讯
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/凤凰卫视香港台.png",凤凰香港
+
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/北京卫视.png",北京卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/深圳卫视.png",深圳卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/东方卫视.png",东方卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖南卫视.png",湖南卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227193/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/浙江卫视.png",浙江卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227193/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227164/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/广东卫视.png",广东卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227164/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227160/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/江苏卫视.png",江苏卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227160/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/东南卫视.png",东南卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225835/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/四川卫视.png",四川卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/天津卫视.png",天津卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/安徽卫视.png",安徽卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/山东卫视.png",山东卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225836/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/广西卫视.png",广西卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225834/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/江西卫视.png",江西卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225837/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/河北卫视.png",河北卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225842/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/河南卫视.png",河南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227095/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/海南卫视.png",海南卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖北卫视.png",湖北卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/陕西卫视.png",陕西卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/贵州卫视.png",贵州卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225832/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/辽宁卫视.png",辽宁卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225832/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/重庆卫视.png",重庆卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225862/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/黑龙江卫视.png",黑龙江卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225862/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225845/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/甘肃卫视.png",甘肃卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225851/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/吉林卫视.png",吉林卫视
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227172/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/三沙卫视.png",三沙卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/云南卫视.png",云南卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227181/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/青海卫视.png",青海卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8??playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/厦门卫视.png",厦门卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225852/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/新疆卫视.png",新疆卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/海峡卫视.png",海峡卫视
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建综合.png",福建综合
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建新闻"  tvg-name="福建新闻" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建新闻.png",福建新闻
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建电视剧"  tvg-name="福建电视剧" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建电视剧.png",福建电视剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建教育"  tvg-name="福建教育" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建教育.png",福建教育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建经济"  tvg-name="福建经济" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建经济.png",福建经济
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建旅游"  tvg-name="福建旅游" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建旅游.png",福建旅游
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建少儿"  tvg-name="福建少儿" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建少儿.png",福建少儿
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建文体"  tvg-name="福建体育" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建文体.png",福建文体
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="福建公共" tvg-name="福建公共" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/福建公共.png",福建公共
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="厦门1" tvg-name="厦门1" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/厦门1.png",厦门1
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226814/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="厦门2" tvg-name="厦门2" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/厦门2.png",厦门2
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226777/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="厦门3" tvg-name="厦门3" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/厦门3.png",厦门3
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226760/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/QSDW.png",求索动物
+http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/QSSH.png",求索生活
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/QSKX.png",求索科学
+http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/求索纪录.png",求索纪录
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CHC动作电影.png",CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CHC家庭影院.png",CHC家庭影院
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CHC高清电影.png",CHC高清电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/纪实人文.png",纪实人文
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="芒果独播"  tvg-name="芒果独播" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",芒果独播
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="芒果华语"  tvg-name="芒果华语" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",芒果华语
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="芒果欧美"  tvg-name="芒果欧美" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",芒果欧美
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="芒果综艺"  tvg-name="芒果综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",芒果综艺
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1,tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png",J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png",VIUTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png",无线财经·体育·资讯台
+http://r.jdshipin.com/jUx8K
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://live.fanmingming.com/tv/CNC.png",CNC中文
+
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225747/2/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CGTN.png",CGTN英语
+
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225645/2/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CGTNDoc.png",CGTN纪实
+
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/兵器科技.png",兵器科技
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/怀旧剧场.png",怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/世界地理.png",世界地理
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/文化精品.png",文化精品
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/央视台球.png",央视台球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/央视高网.png",央视高网
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/风云剧场.png",风云剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/风云音乐.png",风云音乐
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/第一剧场.png",第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/女性时尚.png",女性时尚
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/风云足球.png",风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/北京纪实科教.png",北京纪实科教
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/卡酷少儿.png",卡酷少儿
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/金鹰卡通.png",金鹰卡通
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/金鹰纪实.png",金鹰纪实
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/武术世界.png",武术世界
+
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="乐游" tvg-name="乐游" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/乐游.png",SITV乐游
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/生活时尚.png",生活时尚
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/SITV法治天地.png",SITV法治天地
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/SITV都市剧场.png",SITV都市剧场
+http://[2409:8087:4400:20:1:a0f:11:9]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/欢笑剧场.png",SITV欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,tvg-id="NBATV" tvg-name="NBATV" tvg-logo="https://epg.112114.xyz/logo/NBATV.png",NBATV
+http://143.244.60.97/NBATV/index.m3u8
+#EXTINF:-1,tvg-id="HGTV居家乐活" tvg-name="HGTV" tvg-logo="https://epg.112114.xyz/logo/HGTV居家乐活.png",HGTV
+http://143.244.60.97/HGTV/index.m3u8
+#EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://epg.112114.xyz/logo/ESPN.png",ESPN
+http://143.244.60.97/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="TVBRICS中文" tvg-name="TVBRICS中文" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/金砖电视.png",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/cna.png",CNA新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/NHKWORLD.png",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="7183" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/aljazeera.png",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225869/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/中国教育1台.png",中国教育1台
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225869/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225969/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/中国教育4台.png",中国教育4台
+
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖南娱乐.png",湖南娱乐
+
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖南都市.png",湖南都市
+
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖南电影.png",湖南电影
+
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖南爱晚.png",湖南爱晚
+
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南卫视国际" tvg-name="湖南卫视国际" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖南国际.png",湖南国际
+
+#EXTINF:-1 catchup="default" catchup-source="?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/湖南电视剧.png",湖南视剧
+
