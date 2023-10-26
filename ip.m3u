@@ -89,7 +89,7 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225862/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225845/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/甘肃卫视.png",甘肃卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225851/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/吉林卫视.png",吉林卫视
+#EXTINF:-1 catchup="default" catchup-source="hhttp://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/吉林卫视.png",吉林卫视
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227172/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/三沙卫视.png",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
