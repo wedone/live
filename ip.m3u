@@ -5,8 +5,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV3.png",CCTV-3
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV4.png",CCTV-4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV4.png",CCTV-4
+http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV5.png",CCTV-5
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227170/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV6.png",CCTV-6
@@ -23,8 +23,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV12.png",CCTV-12
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV13.png",CCTV-13
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+#EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV13.png",CCTV-13
+http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV14.png",CCTV-14
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="hhttp://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV15.png",CCTV-15
