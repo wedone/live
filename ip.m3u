@@ -36,9 +36,9 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/CCTV5+.png",CCTV-5+
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/凤凰卫视中文台.png",凤凰中文
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/凤凰卫视资讯台.png",凤凰资讯
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227226/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/凤凰卫视香港台.png",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/index.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8?playseek=${(bu)yyyyMMddHHmmss}-${(eu)yyyyMMddHHmmss}" tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gitee.com/iwedo/live/raw/master/tv/北京卫视.png",北京卫视
